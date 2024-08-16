@@ -1,1 +1,1 @@
-# Solu-o-Jantar-dos-fil-sofos
+# Solucao-Jantar-dos-filosofos
